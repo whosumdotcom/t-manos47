@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T16:31:57Z",
+  "IdClaims": [
+    {
+      "Claim": "t:manos47"
+    },
+    {
+      "Claim": "gh:npmanos"
+    },
+    {
+      "Claim": "mdon:@manos47@mas.to"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "313561bbc351f1aafce1619f",
+    "Timestamp": "2023-04-06T16:34:31Z",
+    "Signature": "7bb0c22cf5149ea544b7a1efafabd77872e28cc15367e0dec1169c9679ed1c70fd0cd373e65e283d1b6e8a1d710e53f0b22c486ce81e53d5ffa0aa4dac6153c299386c69d7e24aaa44e5d3b0418f9b1df77fb2ae9593939927f06f4f0fc508f81b7241b6c37820644711403d74bc06db215945e00ca3e676b0ab42947b46afbb6dac33ae77bc5ce879ace2ff391e875c84251648be12dd7d259fa37e97f37058797bec4204a6ebaf20f2ddaacd16413b65b2936da79a820a17679c9d54f01991f37c2d6d7ae2499f400b298034f2fc2819eee935c94c9af01387a4b17f6a3eb76d410dfcd86ee8742bf41f9e80a3a01475ed39e52ee3cbad740b4484081ec4f7"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "f5a043a846a6db54622c93f408486e32cf69c522c12592c0facfb1cbd0d68a97",
+  "ContentToHash": "v1|gh:npmanos,mdon:@manos47@mas.to,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:manos47|2023-04-06T16:31:57Z"
+}
